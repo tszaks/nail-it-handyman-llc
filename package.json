@@ -1,0 +1,1 @@
+{"scripts": {"start": "serve public -l $PORT"}, "dependencies": {"serve": "^14.2.1"}}

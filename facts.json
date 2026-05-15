@@ -1,0 +1,56 @@
+{
+  "place_id": "ChIJV07ppEPnwokRTe59u32vRhQ",
+  "name": "Nail-It Handyman LLC",
+  "phone": "(855) 562-4548",
+  "phone_digits": "8555624548",
+  "address": "185 NJ-17 Suite 2, Mahwah, NJ 07430, USA",
+  "rating": "4.2",
+  "review_count": "1454",
+  "hours": [
+    "Monday: Open 24 hours",
+    "Tuesday: Open 24 hours",
+    "Wednesday: Open 24 hours",
+    "Thursday: Open 24 hours",
+    "Friday: Open 24 hours",
+    "Saturday: Open 24 hours",
+    "Sunday: Open 24 hours"
+  ],
+  "types": [
+    "general_contractor",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "drywall",
+    "fixtures",
+    "deck fence"
+  ],
+  "reviews": [
+    {
+      "stars": 1,
+      "author": "Winna Mowenn",
+      "text": "If I could give -10 stars, I would! Worst company ever. They sent an inexperienced handyman to do my work and left things worse than what it started out as. The technician only patch two holes in my wall, both I had to get re-done because it was done incorrectly. Then the smoke detectors never got changed and the light fixtures I primarily wanted changed was not done. In fact he attempted to do it and then realized he didn\u2019t know how to. At this point, I was infuriated. When I tried to cancel, they refused to work with me to adjust the total amount or send me someone better. Then they charged my card discretely without me noticing so I was unable to dispute it since I didn\u2019t catch the charge in time. Please save yourself the headache and either hire a professional or find someone you know that can do your work. Hiring these people is throwing money away!"
+    },
+    {
+      "stars": 1,
+      "author": "Veronica Robinson",
+      "text": "Rip off.  Run away. I wish I could give them a 0. I asked for replacement of floor boards and to strength the wall with posts.   They quoted me 5 hours or may be an 8 hour day after I sent videos and pictures.  I insisted I needed 2 people.  Okay, $999 each plus materials. Okay, $3100. I can handle that. Sure,  I will take the cash discount. The workers came out next day.  One ready to work, the other one in a polo shirt and jeans who walked around the entire time.  The working worker says maybe 2 days. I say okay. 7 days and over $14500.00 later, I say that\u2019s enough (after ongoing requests for information, progress, etc), today is the last day to their office, finish today.   Their office manager says but we have you on the schedule for tomorrow too.  No, you are bleeding me dry with no end in sight.  They actually were building a whole new deck, from bottom up.  The problem is that they didn\u2019t give me a proper estimate or update me on why they were building a whole new deck. And they kept making promises that they were going to finish in the next day or in the next two days or the next day or the next day and all those were lies. I needed to make sure the deck was sturdy and replace the boards that were rotten on top with post to make the wall sturdy. Instead, they took down the entire thing and kept charging and charging and charging me. Now I have a unfinished \u201cnew\u201d partial deck. Scammers! And they left all the old wood and trash everywhere. I\u2019m going to report them to the BBB. How horrible."
+    },
+    {
+      "stars": 1,
+      "author": "Diane Savino",
+      "text": "If I could give less than one star I would, they sent a totally inexperienced carpenter to do an attic stair installation.  He destroyed my ceiling and damaged the floor joists in the attic.  He didn't have any tools, used a hand saw to try and cut things and left a mess.  I called and emailed and got nowhere.  I was told it was a two man job, but they sent one! I was told it would take another day but I wasn't paying again. I already paid them $900.  I tried to get my money back and they ignored my emails and calls.  I filed a complaint with NYC Dept of Consumer Affairs and they ignored them.  I am planning on suing them in Small Claims Court.  They are extraordinarily unprofessional and should not be in business."
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": null,
+  "email_all": [],
+  "email_source": null
+}
